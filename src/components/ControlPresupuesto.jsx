@@ -47,6 +47,7 @@ const ControlPresupuesto = ({gastos,setGastos, presupuesto, setPresupuesto, setI
                 })}
                 value={porcentaje}
                 text={`${porcentaje}% Gastado`}
+           
                     
                 />
             </p>
